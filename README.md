@@ -42,9 +42,3 @@ You can launch the created program using
 ```
 ./GoFish
 ```
-
-# Colaborators
-
-Gentil Bruno
-
-Wojciechowski Kacper
