@@ -2,3 +2,5 @@ build/
 .vs/
 *.o
 *.exe
+x64/
+x32/
